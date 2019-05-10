@@ -34,7 +34,7 @@ help(kmeans)
 help(aggr)
 ?register_google
 ggmap_show_api_key()
-register_google(key = "AIzaSyDpjczK2fNmLLOe6f47EfLaHxsW2rVyPGc", write = TRUE)
+register_google(key = "", write = TRUE)
 
 #kmeans
 aggr(salesDF)
